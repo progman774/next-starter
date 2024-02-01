@@ -58,5 +58,3 @@ and open http://localhost:3000/ to see this app.
 
 
 If you liked the project, I will appreciate if you leave a star. 🌟😊
-
-Made by <a href="https://michalskolak.netlify.app/">Michał Skolak</a> 
